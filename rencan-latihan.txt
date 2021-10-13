@@ -3,3 +3,4 @@ RENCANA LATIHAN PENGGUNAAN GITHUB
 - Pelajari konsep elevator
 - Meet sama anggota kelompok
 - Nyuruh anggota kelompok pelajari github dan latex buat format laporan
+- latihan UTS matematika
