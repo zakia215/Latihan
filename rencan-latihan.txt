@@ -1,6 +1,10 @@
 RENCANA LATIHAN PENGGUNAAN GITHUB
 
 - Pelajari konsep elevator
+  - Belajar dari youtube
+  - belajar bareng lewat zoom
 - Meet sama anggota kelompok
 - Nyuruh anggota kelompok pelajari github dan latex buat format laporan
 - latihan UTS matematika
+- Abs workout
+- Latihan python
